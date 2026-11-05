@@ -1,0 +1,257 @@
+{
+  "verifiedAt": "2026-11-05T12:53:04.652Z",
+  "baseline": "C:\\Users\\ASus\\Desktop\\Workspaces\\Productivity\\Monograph\\backups\\pre-revamp-2026-11-05\\monograph.db",
+  "current": "C:\\Users\\ASus\\Desktop\\Workspaces\\Productivity\\Monograph\\monograph.db",
+  "passed": true,
+  "integrity": "ok",
+  "foreignKeyViolations": 0,
+  "tables": [
+    {
+      "table": "sources",
+      "before": 6,
+      "after": 6,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "problems",
+      "before": 497,
+      "after": 497,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "attempts",
+      "before": 83,
+      "after": 83,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "observations",
+      "before": 0,
+      "after": 0,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "tags",
+      "before": 7,
+      "after": 7,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "problem_tags",
+      "before": 6,
+      "after": 6,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "attempt_tags",
+      "before": 3,
+      "after": 3,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "observation_tags",
+      "before": 0,
+      "after": 0,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "collections",
+      "before": 0,
+      "after": 0,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "collection_problems",
+      "before": 0,
+      "after": 0,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "subjects",
+      "before": 1,
+      "after": 1,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "practice_logs",
+      "before": 6,
+      "after": 6,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "tag_categories",
+      "before": 3,
+      "after": 3,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "notes",
+      "before": 1,
+      "after": 1,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "note_tags",
+      "before": 0,
+      "after": 0,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "object_types",
+      "before": 12,
+      "after": 12,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "field_definitions",
+      "before": 10,
+      "after": 10,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "objects",
+      "before": 595,
+      "after": 605,
+      "unchanged": false,
+      "originalRowsPreserved": true,
+      "addedRows": 10,
+      "passed": true
+    },
+    {
+      "table": "relations",
+      "before": 669,
+      "after": 689,
+      "unchanged": false,
+      "originalRowsPreserved": true,
+      "addedRows": 20,
+      "passed": true
+    },
+    {
+      "table": "documents",
+      "before": 3,
+      "after": 3,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "views",
+      "before": 0,
+      "after": 0,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "events",
+      "before": 0,
+      "after": 0,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "inbox",
+      "before": 0,
+      "after": 0,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "pdfs",
+      "before": 5,
+      "after": 5,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    },
+    {
+      "table": "pdf_highlights",
+      "before": 0,
+      "after": 0,
+      "unchanged": true,
+      "originalRowsPreserved": true,
+      "addedRows": 0,
+      "passed": true
+    }
+  ],
+  "pdfs": [
+    {
+      "filename": "SAT_Grammar_800_Master_Sheet.pdf",
+      "unchanged": true
+    },
+    {
+      "filename": "SAT (2).pdf",
+      "unchanged": true
+    },
+    {
+      "filename": "SAT (3).pdf",
+      "unchanged": true
+    },
+    {
+      "filename": "SAT (4).pdf",
+      "unchanged": true
+    },
+    {
+      "filename": "SAT (5).pdf",
+      "unchanged": true
+    }
+  ]
+}

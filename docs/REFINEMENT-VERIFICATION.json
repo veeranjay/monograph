@@ -1,0 +1,192 @@
+{
+  "verifiedAt": "2026-11-05T13:21:44.038Z",
+  "passed": true,
+  "integrity": "ok",
+  "foreignKeyViolations": 0,
+  "tables": [
+    {
+      "table": "sources",
+      "before": 6,
+      "after": 6,
+      "unchanged": true
+    },
+    {
+      "table": "problems",
+      "before": 497,
+      "after": 497,
+      "unchanged": true
+    },
+    {
+      "table": "attempts",
+      "before": 83,
+      "after": 83,
+      "unchanged": true
+    },
+    {
+      "table": "observations",
+      "before": 0,
+      "after": 0,
+      "unchanged": true
+    },
+    {
+      "table": "tags",
+      "before": 7,
+      "after": 7,
+      "unchanged": true
+    },
+    {
+      "table": "problem_tags",
+      "before": 6,
+      "after": 6,
+      "unchanged": true
+    },
+    {
+      "table": "attempt_tags",
+      "before": 3,
+      "after": 3,
+      "unchanged": true
+    },
+    {
+      "table": "observation_tags",
+      "before": 0,
+      "after": 0,
+      "unchanged": true
+    },
+    {
+      "table": "collections",
+      "before": 0,
+      "after": 0,
+      "unchanged": true
+    },
+    {
+      "table": "collection_problems",
+      "before": 0,
+      "after": 0,
+      "unchanged": true
+    },
+    {
+      "table": "subjects",
+      "before": 2,
+      "after": 2,
+      "unchanged": true
+    },
+    {
+      "table": "practice_logs",
+      "before": 6,
+      "after": 6,
+      "unchanged": true
+    },
+    {
+      "table": "tag_categories",
+      "before": 3,
+      "after": 3,
+      "unchanged": true
+    },
+    {
+      "table": "notes",
+      "before": 1,
+      "after": 1,
+      "unchanged": true
+    },
+    {
+      "table": "note_tags",
+      "before": 0,
+      "after": 0,
+      "unchanged": true
+    },
+    {
+      "table": "object_types",
+      "before": 12,
+      "after": 12,
+      "unchanged": true
+    },
+    {
+      "table": "field_definitions",
+      "before": 10,
+      "after": 10,
+      "unchanged": true
+    },
+    {
+      "table": "objects",
+      "before": 605,
+      "after": 605,
+      "unchanged": true
+    },
+    {
+      "table": "relations",
+      "before": 689,
+      "after": 689,
+      "unchanged": true
+    },
+    {
+      "table": "documents",
+      "before": 3,
+      "after": 3,
+      "unchanged": true
+    },
+    {
+      "table": "views",
+      "before": 0,
+      "after": 0,
+      "unchanged": true
+    },
+    {
+      "table": "events",
+      "before": 0,
+      "after": 0,
+      "unchanged": true
+    },
+    {
+      "table": "inbox",
+      "before": 0,
+      "after": 0,
+      "unchanged": true
+    },
+    {
+      "table": "pdfs",
+      "before": 5,
+      "after": 5,
+      "unchanged": true
+    },
+    {
+      "table": "pdf_highlights",
+      "before": 0,
+      "after": 0,
+      "unchanged": true
+    },
+    {
+      "table": "workspace_state",
+      "before": 0,
+      "after": 0,
+      "unchanged": true
+    },
+    {
+      "table": "workspace_settings",
+      "before": 0,
+      "after": 0,
+      "unchanged": true
+    }
+  ],
+  "pdfs": [
+    {
+      "file": "99ed0220-7eb6-41f0-ab00-ec368c7c2f75_SAT_Grammar_800_Master_Sheet.pdf",
+      "unchanged": true
+    },
+    {
+      "file": "a4e43d74-6b77-4707-adaf-02e6939650ad_SAT__2_.pdf",
+      "unchanged": true
+    },
+    {
+      "file": "bab6d063-5903-4db8-853c-6cb2aef905e9_SAT__4_.pdf",
+      "unchanged": true
+    },
+    {
+      "file": "c201f718-8dbf-4bf6-9929-993033597279_SAT__5_.pdf",
+      "unchanged": true
+    },
+    {
+      "file": "f601b0e4-cd4e-45ce-afed-53e11631e443_SAT__3_.pdf",
+      "unchanged": true
+    }
+  ]
+}

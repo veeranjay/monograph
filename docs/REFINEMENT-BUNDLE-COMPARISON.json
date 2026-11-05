@@ -1,0 +1,56 @@
+{
+  "before": {
+    "files": [
+      {
+        "file": "/assets/index-DS5UYFJ-.js",
+        "bytes": 192780,
+        "gzipBytes": 56591
+      },
+      {
+        "file": "/assets/react-DrkNm10G.js",
+        "bytes": 143383,
+        "gzipBytes": 45980
+      },
+      {
+        "file": "/assets/motion-DPvWYiLk.js",
+        "bytes": 144188,
+        "gzipBytes": 48744
+      },
+      {
+        "file": "/assets/ui-primitives-CxE8CumL.js",
+        "bytes": 92439,
+        "gzipBytes": 31611
+      },
+      {
+        "file": "/assets/math-engine-CzyClah6.js",
+        "bytes": 261855,
+        "gzipBytes": 77882
+      }
+    ],
+    "bytes": 834645,
+    "gzipBytes": 260808
+  },
+  "after": {
+    "files": [
+      {
+        "file": "/assets/index-Cd3eQwPU.js",
+        "bytes": 150125,
+        "gzipBytes": 45999
+      },
+      {
+        "file": "/assets/react-DrkNm10G.js",
+        "bytes": 143383,
+        "gzipBytes": 45980
+      },
+      {
+        "file": "/assets/ui-primitives-CxE8CumL.js",
+        "bytes": 92439,
+        "gzipBytes": 31611
+      }
+    ],
+    "bytes": 385947,
+    "gzipBytes": 123590
+  },
+  "reductionPercent": 53.8,
+  "gzipReductionPercent": 52.6
+}
